@@ -1,5 +1,5 @@
 # IXL OpenAI Solver
-## Automatically does my math homework for me
+## Using Python and AI to automate my math homework
 
 AI or math formulas automating doing IXL problems.
 
